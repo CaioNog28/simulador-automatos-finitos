@@ -1,0 +1,11 @@
+palavra;esperado
+a;1
+ab;0
+aa;1
+aaa;1
+aab;1
+abbb;0
+abab;1
+c;0
+b;0
+aababb;1
